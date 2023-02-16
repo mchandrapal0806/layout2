@@ -1,0 +1,71 @@
+.image
+{
+
+    width: 95%;
+    height: 95%;
+    background-position: center;
+     
+    padding-left: 10%;
+}
+.color
+{
+    color:orangered;
+    font-size: xx-large;
+    padding-left:50px;
+    padding-right:0px;
+    font-weight:500;
+    
+}
+.ser
+{
+    color: green;
+    text-align: center;
+    
+
+}
+.text
+{
+    text-align: justify;
+    padding-left: 8%;
+     text-align: left;
+     padding-right: 10%;
+     padding-left:5%;
+
+}
+.border{
+    width: 300px;
+    border: 15px solid green;
+    padding: 10px;
+    margin: 10px;
+  }
+
+.site{
+     text-align: center;
+    height: 130px;
+    color: aliceblue;
+}
+.name{
+    color: brown;
+    padding-top: 5%;
+    padding-left: 30%;
+}
+.we
+{
+    text-align: left;
+    font-size: x-large;
+    font-weight: 500;
+    color: aliceblue;
+    position: absolute;
+    height: 40%;
+    width: 10%;
+    margin-left: 80%;
+    background-color: rgb(69, 115, 109);
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+.a{
+    padding-left: 20%;
+    
+}
+
+
